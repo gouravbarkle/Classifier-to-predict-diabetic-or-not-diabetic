@@ -56,4 +56,8 @@ hyperplane that separates the data items into two classes with the accuracy scor
 
 # Workflow Chart for Classifiers
 
+logistic classifier 
+![](https://github.com/gouravbarkle/Classifier-to-predict-diabetic-or-not-diabetic/blob/main/FlowCharts/LR.png)
+
+
 
