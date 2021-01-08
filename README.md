@@ -25,34 +25,35 @@ which can accurately predict whether or not the patients in the dataset have dia
  # Supervised learning techniques used
  Supervised learning techniques used for this particular classification problem are
  
-# ● Logistic regression classifier
+# Logistic regression classifier
 LR helps in finding the probability that a new instance belongs to a certain class. Since it is a
 probability, the outcome lies between 0 and 1. Therefore, to use the LR as a binary classifier, a
 threshold needs to be assigned to differentiate two classes. In this particular problem LR gives
 accuracy score of 79.16%.
 
-# ● Naive bayes classifier
+# Naive bayes classifier
 Naïve Bayes (NB) is a classification technique based on the Bayes’ theorem.This classifier
 assumes that a particular feature in a class is not directly related to any other feature although
 features for that class could have interdependence. Using NB classifier we were able to get
 79.16% of accuracy.
 
-# ● K-nearest neighbors classifier
+# K-nearest neighbors classifier
 Unlike the NB technique, the KNN algorithm does not require to consider probability values.
 The ‘K’ is the KNN algorithm is the number of nearest neighbours considered to take ‘vote’
 from. The selection of different values for ‘K’ can generate different classification results for
 the same sample object.For K=5, the model gave us the accuracy of 76.56%.
 
-# ● Decision tree classifier
+# Decision tree classifier
 Decision tree models the decision logics i.e., tests and corresponds outcomes for classifying
 data items into a tree-like structure. Although here we our case it doesn’t performs well due
 to its greedy and deterministic nature and gives accuracy score of 65.62% only.
 
-# ● Support Vector Classifier
+# Support Vector Classifier
 (SVM) algorithm can classify both linear and non-linear data. After mapping data into
 n-dimensional feature space where n is the number of features. It then identifies the
 hyperplane that separates the data items into two classes with the accuracy score of
 80.72% which is highest among all classifiers used.
 
 # Workflow Chart for Classifiers
+
 
