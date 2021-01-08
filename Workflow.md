@@ -8,9 +8,11 @@ logistic classifier
 
 
 
+
 Decision tree classifier
 
 ![](https://github.com/gouravbarkle/Classifier-to-predict-diabetic-or-not-diabetic/blob/main/FlowCharts/dt.png)
+
 
 
 
@@ -20,9 +22,11 @@ k-nearest neighbors classifier
 
 
 
+
 Naive bayes classifier
 
 ![](https://github.com/gouravbarkle/Classifier-to-predict-diabetic-or-not-diabetic/blob/main/FlowCharts/nb.png)
+
 
 
 
