@@ -55,3 +55,15 @@ hyperplane that separates the data items into two classes with the accuracy scor
 80.72% which is highest among all classifiers used.
 
 
+
+# Result & Conclusion 
+We found that the Support Vector Machine (SVM) algorithm predicted most accurately
+(80.72 %) followed by the Naïve Bayes algorithm (79.16%).
+However, the performance of the k-nearest neighbours classifier and logistic regression
+classifier is also somewhere around the Naïve Bayes but the decision tree doesn't perform
+well with this particular problem due to its greedy and deterministic nature.
+This study provides a wide overview of the relative performance of different variants of
+supervised machine learning algorithms for disease prediction. This important information of
+relative performance can be used to aid researchers in the selection of an appropriate
+supervised machine learning algorithm for their studies.
+
